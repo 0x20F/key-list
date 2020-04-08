@@ -11,3 +11,13 @@ readme = "README.md"
 
 keywords = [ "list", "keys", "substring", "fast", "minimal" ]
 categories = [ "utility", "parsing", "text-processing" ]
+
+
+description = "A very minimal crate to get you a specific sequence between two characters in a string, fast."
+
+license = "MIT"
+
+exclude = [
+    "tests/*",
+    ".github/*"
+]

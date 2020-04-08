@@ -1,5 +1,13 @@
 [package]
 name = "key-list"
-version = "0.1.0"
+version = "1.0.0"
 authors = ["Poly <alexhexan22@gmail.com>"]
 edition = "2018"
+
+documentation = "https://docs.rs/key-list"
+homepage = "https://github.com/0x20F/key-list"
+repository = "https://github.com/0x20F/key-list"
+readme = "README.md"
+
+keywords = [ "list", "keys", "substring", "fast", "minimal" ]
+categories = [ "utility", "parsing", "text-processing" ]
